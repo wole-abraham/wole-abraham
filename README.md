@@ -1,3 +1,9 @@
+
+
+
+
+![wallpaperflare com_wallpaper (1)](https://github.com/user-attachments/assets/2ba69191-21f5-4aee-8a52-af68627f3e9a)
+
 ### Hello World!
 
 👋 Hi there!  I'm Wole a **Computer Science Student** currently enrolled in the **ALX Software Engineering program**, with a strong focus on **backend development**.
