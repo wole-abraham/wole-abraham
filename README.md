@@ -21,14 +21,14 @@ Feel free to reach out if you'd like to collaborate or chat about tech!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background-color: white"> 
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg width=50 height=50> </a> 
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg width=50 height=50 background-color=blue> </a>
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg width=50 height=50 background-color=blue> </a>
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg width=50 height=50 background-color=blue> </a>
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg width=50 height=50 background-color=blue> </a>
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg width=50 height=50 background-color=blue> </a>
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg width=50 height=50 background-color=blue> </a>
-<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg width=50 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg width=30 height=50> </a> 
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg width=30 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg width=30 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg width=30 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg width=30 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg width=30 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg width=30 height=50 background-color=blue> </a>
+<a href=https> <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg width=30 height=50 background-color=blue> </a>
 
 
 </p>
