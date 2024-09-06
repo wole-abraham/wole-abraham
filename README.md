@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi there! I'm Wole a **compyter science student** currently enrolled in the **ALX Software Engineering program**, with a strong focus on **backend development**.
+👋 Hi there!  I'm Wole a **Computer Science Student** currently enrolled in the **ALX Software Engineering program**, with a strong focus on **backend development**.
 
 🔧 I enjoy working with technologies like **Python, Flask, SQL,** and a bit of **JavaScript**, and I’m constantly improving my skills in **Backend development** and **database management**. While I'm more comfortable working on the backend, I’ve been pushing myself to grow in **frontend development** by working on projects that involve creating full-stack applications.
 
