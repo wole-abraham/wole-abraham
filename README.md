@@ -10,10 +10,13 @@
 
 🔧 I enjoy working with technologies like **Python, Flask, SQL,** and a bit of **JavaScript**, and I’m constantly improving my skills in **Backend development** and **database management**. While I'm more comfortable working on the backend, I’ve been pushing myself to grow in **frontend development** by working on projects that involve creating full-stack applications.
 
-💻 Currently, I’m interning at the **Lagos State Land Administration e-GIS Portal**, where I focus on **gathering data** for various projects. 
+I interned at the **Lagos State Land Administration e-GIS Portal**, where I focused on **gathering data** for various projects. 
 ```Some of my ongoing projects include:```
-- **Video Game Portfolio Website** – utilizing the **RAWG API** and Flask.
-- Web scraping projects and data-driven applications.
+- **Video Game Portfolio Website** – utilizing the **RAWG API** and Flask.-> https://github.com/wole-abraham/Gamelib
+- **Beauty Clinic Appointment System** -> Booking and Scheduling appointments -> http://www.marynassifchbat.com/
+- **Minimal Ecommerce SIte** -> https://woleabrahamthedev.pythonanywhere.com/
+- **Survey data app** -> https://devwole.pythonanywhere.com/
+
   
 🚀 I'm always eager to collaborate on open-source projects and build useful tools.
 
