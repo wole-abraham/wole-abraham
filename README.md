@@ -6,7 +6,7 @@
 
 ### Hello World!
 
-👋 Hi there!  I'm Wole a **Computer Science Student** currently enrolled in the **ALX Software Engineering program**, with a strong focus on **backend development**.
+👋 Hi there! I'm Wole, a Computer Science graduate with a strong focus on backend development. I previously completed the ALX Software Engineering program and continue to build expertise in scalable and efficient backend systems.
 
 🔧 I enjoy working with technologies like **Python, Flask, SQL,** and a bit of **JavaScript**, and I’m constantly improving my skills in **Backend development** and **database management**. While I'm more comfortable working on the backend, I’ve been pushing myself to grow in **frontend development** by working on projects that involve creating full-stack applications.
 
