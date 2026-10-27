@@ -1,102 +1,84 @@
-## Wole Abraham
+# Ayowole Ogunnowo
 
-Backend-leaning full-stack engineer. Computer Science graduate and ALX Software
-Engineering alumnus. I build operational systems for organisations that run on
-field data — construction reporting, land administration, scheduling and
-service platforms — and increasingly, applications with language models wired
-into the core rather than bolted on the side.
+Full-stack software developer based in Lagos, Nigeria. I build operational
+products end to end: responsive interfaces, authenticated APIs, data models,
+automation, integrations, and production deployment.
 
-Most of my work is production software with real users behind it: a construction
-fleet and progress reporting platform feeding Power BI, a land documentation
-portal handling statutory applications, a concierge platform with client and
-admin surfaces, and a voice-driven clinic scheduler.
+[Portfolio](https://devwole.space) ·
+[Email](mailto:wole1702@gmail.com)
 
----
+## Focus
 
-### What I work with
+- Operational platforms for construction, property, service, and field teams
+- Full-stack products with Next.js, React, TypeScript, Python, and PostgreSQL
+- Authentication, role-based workflows, reporting APIs, and data automation
+- AI-assisted product features using Anthropic and OpenRouter APIs
+- Linux/VPS delivery with Nginx, PM2, Docker, Cloudflare, and GitHub Actions
 
-**Languages** — Python, TypeScript, JavaScript, SQL
+## Core stack
 
-**Backend** — FastAPI, Django, Flask, Node.js/Express, SQLAlchemy, Prisma,
-SQLModel
+| Area | Technologies |
+| --- | --- |
+| Frontend | Next.js, React, TypeScript, Tailwind CSS, React Native |
+| Backend | FastAPI, Django, Flask, Node.js, REST APIs, WebSockets |
+| Data | PostgreSQL, Supabase, SQLite, Redis, SQLAlchemy, pandas |
+| Delivery | Linux, Nginx, PM2, Docker, Vercel, Railway, Cloudflare |
 
-**Frontend** — Next.js (App Router), React, React Native/Expo, Tailwind,
-shadcn/ui
+## Selected public work
 
-**Data** — PostgreSQL, Supabase, SQLite, Redis, pandas, scikit-learn
+### [Hi-Tech Field Operations Platform](https://github.com/wole-abraham/hitech-portal)
 
-**Infrastructure** — Vercel, Render, Railway, Ubuntu VPS (Gunicorn + Nginx),
-GitHub Actions, Cloudflare R2 and S3-compatible storage, Docker
+Production-oriented field reporting system for construction operations. It
+supports daily progress reports, workforce and equipment records, media
+uploads, configurable project data, and a dedicated Power BI reporting API.
 
-**AI** — Anthropic Claude, OpenRouter, retrieval and prompt-driven generation
-against domain corpora
+`Next.js` `TypeScript` `Supabase` `Cloudflare R2` `Vitest`
 
----
+### [Hi-Tech Analytics Dashboard](https://github.com/wole-abraham/hitech-dashboard)
 
-### Selected work
+Authenticated operational dashboard combining survey reports, workforce data,
+site media, and geospatial progress. Python ETL scripts transform spreadsheet
+data and upsert it into Supabase for reporting.
 
-**[hitech-portal](https://github.com/wole-abraham/hitech-portal)** — Field
-operations platform for a construction company. Workers submit daily progress
-reports against chainage references with photo and video attachments; office
-staff manage workforce, equipment and planned activities. Includes a dedicated
-Power BI feed serving flattened datasets to external reporting.
-*Next.js, TypeScript, Supabase, Cloudflare R2, Vitest.*
+`Next.js` `TypeScript` `Supabase` `Mapbox` `Python` `pandas`
 
-**[ipms-backend](https://github.com/wole-abraham/ipms-backend)** — Property
-management API with machine learning for rent estimation and tenant risk
-scoring. Runs on SQLite locally and switches to PostgreSQL in deployment.
-*FastAPI, SQLAlchemy, scikit-learn.*
+### [Real-Time Sign Language Recognition](https://github.com/wole-abraham/sign-language-recognition)
 
-**[reflect](https://github.com/wole-abraham/reflect)** and
-**[reflect-mobile](https://github.com/wole-abraham/reflect-mobile)** — A daily
-reflection tool that generates writing in the user's own voice from a corpus of
-their past work, then publishes on approval. Web app plus an Expo companion
-client sharing one backend, with bearer-token auth layered over cookie sessions
-for mobile.
-*Next.js, Expo/React Native, Anthropic Claude, Supabase Vault.*
+CPU-based ASL recognition using MediaPipe hand landmarks and a Random Forest
+classifier, with data collection, training, desktop, web, and Electron flows.
+The repository documents both the reported evaluation and the limitations of
+the currently shipped model.
 
-**[speed-work-bro](https://github.com/wole-abraham/speed-work-bro)** — Clinic
-appointment system with two front doors: a voice agent that books over the
-phone, and a web UI. Learns each patient's booking habits to suggest slots, and
-predicts no-show risk to allow capacity-aware overbooking.
-*FastAPI, Vapi, Supabase.*
+`Python` `MediaPipe` `scikit-learn` `Electron`
 
-**[LandsBackend](https://github.com/wole-abraham/LandsBackend)** and
-**[landsportal](https://github.com/wole-abraham/landsportal)** — Land
-documentation and title services portal. Applicants submit searches, consent,
-certified true copies and regularization requests with supporting documents;
-staff process them and issue invoices through an admin surface.
-*FastAPI, Supabase, S3-compatible storage.*
+### [Intelligent Property Management API](https://github.com/wole-abraham/ipms-backend)
 
-**[Miora concierge platform](https://github.com/wole-abraham/concierge-backend)**
-— Bespoke concierge service with client and admin surfaces, JWKS-verified
-Supabase auth cached in Redis, and generated invoices delivered as email-safe
-HTML. Live at [miora.devwole.space](https://miora.devwole.space).
-*FastAPI, Supabase, Redis, Resend.*
+FastAPI service for properties, tenants, payments, and maintenance requests,
+with JWT authentication and scikit-learn endpoints for rent estimation and
+tenant risk scoring.
 
-**[DeDoc](https://github.com/wole-abraham/DeDoc)** — A first-order logic expert
-system for medical diagnosis. Forward chaining derives facts from reported
-symptoms; backward chaining selects the most informative next question. Every
-conclusion is traceable to the rule that produced it, with no statistical model
-involved.
-*Python, FastAPI.*
+`FastAPI` `SQLAlchemy` `PostgreSQL` `scikit-learn`
 
----
+### [DeDoc Expert System](https://github.com/wole-abraham/DeDoc)
 
-### Background
+Explainable first-order logic demonstration that combines forward chaining for
+fact derivation with backward chaining for question selection. The project is
+explicitly documented as an academic system, not a clinical tool.
 
-Previously interned at the **Lagos State Land Administration e-GIS Portal**,
-working on data collection across projects — which is where the land
-administration and geospatial reporting thread in my work started.
+`Python` `FastAPI` `Rule-based inference`
 
-I am comfortable owning a system end to end: schema design, API, deployment,
-and the operational scripts that keep data flowing into it.
+## Beyond the public repositories
 
----
+Recent private and client work includes team CRM and follow-up automation,
+financial-market content and data products, land administration workflows,
+voice-assisted appointment scheduling, and multilingual commerce systems.
+Case studies and live work are available at [devwole.space](https://devwole.space).
 
-### Contact
+## Background
 
-- Email — [wole1702@gmail.com](mailto:wole1702@gmail.com)
-- GitHub — [@wole-abraham](https://github.com/wole-abraham)
+- Full-Stack Software Developer at Hi-Tech Construction
+- Former Software Lead at GDG Caleb University
+- B.Sc. Computer Science, Caleb University
+- ALX Software Engineering alumnus
 
-Open to collaboration and interesting backend or full-stack problems.
+Open to full-stack, backend, automation, and product engineering opportunities.
