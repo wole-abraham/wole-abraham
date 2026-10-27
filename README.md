@@ -42,6 +42,14 @@ data and upsert it into Supabase for reporting.
 
 `Next.js` `TypeScript` `Supabase` `Mapbox` `Python` `pandas`
 
+### [Zuruny Commerce Platform](https://github.com/datatodecisions2026/zuruny)
+
+Multilingual commerce platform with product variants, cart and checkout,
+customer and admin sessions, PostgreSQL-backed orders and inventory, Paystack
+payment flows, analytics, and interactive Three.js storytelling.
+
+`Next.js` `TypeScript` `PostgreSQL` `Paystack` `Three.js`
+
 ### [Real-Time Sign Language Recognition](https://github.com/wole-abraham/sign-language-recognition)
 
 CPU-based ASL recognition using MediaPipe hand landmarks and a Random Forest
